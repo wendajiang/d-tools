@@ -1,0 +1,3 @@
+[submodule "myalfred/tldr-alfred"]
+	path = myalfred/tldr-alfred
+	url = https://github.com/cs1707/tldr-alfred
